@@ -29,6 +29,7 @@ int main()
     i++;
    }// while2
    cout<<" la cac so nguyen to thuoc khoang "<< n;
+   
 return 0;
 }//main
 
